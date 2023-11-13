@@ -65,14 +65,3 @@
 曾经不止一次听别人抱怨，Pandas的知识点分散、零碎、不便于记忆。在细节上，作者这次在新版中摒弃了许多容易造成记忆混乱的用法。比如，用`axis = "columns"`替代`axis = 1`，简写方式破坏了代码的可读性，作者修改了许多类似的编程细节。新版对初学者更为友好了！
 
 ***
-
-> 这两个多月又从头到尾看了遍第二版的文字，发现错误还真是不少。。。 T_T
-
-<div align=center>
-    <a href="https://item.jd.com/13255935.html">
-        <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8obmj8oc6j308w08w3z2.jpg" width="200px">
-    </a>
-</div>
-<div align=center>
-    <p>我的微信·WeChat，欢迎沟通 ^_^</p>
-</div>
